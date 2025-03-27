@@ -5,14 +5,14 @@ plugins {
 
 android {
     namespace = "com.thatmarcel.apps.suresim"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.thatmarcel.apps.suresim"
         minSdk = 31
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
-        versionName = "1.0"
+        versionName = "0.0.1"
     }
 
     buildTypes {
